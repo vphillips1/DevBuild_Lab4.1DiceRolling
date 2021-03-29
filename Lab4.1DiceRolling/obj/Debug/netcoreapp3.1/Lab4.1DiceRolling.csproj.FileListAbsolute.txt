@@ -1,0 +1,13 @@
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\bin\Debug\netcoreapp3.1\Lab4.1DiceRolling.exe
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\bin\Debug\netcoreapp3.1\Lab4.1DiceRolling.deps.json
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\bin\Debug\netcoreapp3.1\Lab4.1DiceRolling.runtimeconfig.json
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\bin\Debug\netcoreapp3.1\Lab4.1DiceRolling.runtimeconfig.dev.json
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\bin\Debug\netcoreapp3.1\Lab4.1DiceRolling.dll
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\bin\Debug\netcoreapp3.1\Lab4.1DiceRolling.pdb
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\obj\Debug\netcoreapp3.1\Lab4.1DiceRolling.csprojAssemblyReference.cache
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\obj\Debug\netcoreapp3.1\Lab4.1DiceRolling.AssemblyInfoInputs.cache
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\obj\Debug\netcoreapp3.1\Lab4.1DiceRolling.AssemblyInfo.cs
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\obj\Debug\netcoreapp3.1\Lab4.1DiceRolling.csproj.CoreCompileInputs.cache
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\obj\Debug\netcoreapp3.1\Lab4.1DiceRolling.dll
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\obj\Debug\netcoreapp3.1\Lab4.1DiceRolling.pdb
+C:\Users\vphillips\dev\Lab4.1DiceRolling\Lab4.1DiceRolling\obj\Debug\netcoreapp3.1\Lab4.1DiceRolling.genruntimeconfig.cache
